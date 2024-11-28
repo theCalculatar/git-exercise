@@ -4,3 +4,4 @@ abc
 Adding security to my text file
 
 Users can now add new goals to the tracker.
+Displays all active goals in a list format.
